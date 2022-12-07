@@ -11,6 +11,50 @@
         <meta name=viewport content="width=device-width, initial-scale=1">
         <link itemprop="url" href="https://buns.fyi">
         <link rel="canonical" href="https://buns.fyi">
+        <style>
+            /* gaegu-300 - latin */
+            @font-face {
+                font-family: 'Gaegu';
+                font-style: normal;
+                font-weight: 300;
+                src: url('{{ get_url(path='/fonts/gaegu-v15-latin-300.eot') }}'); /* IE9 Compat Modes */
+                src: local(''),
+                        url('{{ get_url(path='/fonts/gaegu-v15-latin-300.eot?#iefix') }}') format('embedded-opentype'), /* IE6-IE8 */
+                        url('{{ get_url(path='/fonts/gaegu-v15-latin-300.woff2') }}') format('woff2'), /* Super Modern Browsers */
+                        url('{{ get_url(path='/fonts/gaegu-v15-latin-300.woff') }}') format('woff'), /* Modern Browsers */
+                        url('{{ get_url(path='/fonts/gaegu-v15-latin-300.ttf') }}') format('truetype'), /* Safari, Android, iOS */
+                        url('{{ get_url(path='/fonts/gaegu-v15-latin-300.svg#Gaegu') }}') format('svg'); /* Legacy iOS */
+            }
+
+            /* gaegu-regular - latin */
+            @font-face {
+                font-family: 'Gaegu';
+                font-style: normal;
+                font-weight: 400;
+                src: url('{{ get_url(path='/fonts/gaegu-v15-latin-regular.eot') }}'); /* IE9 Compat Modes */
+                src: local(''),
+                        url('{{ get_url(path='/fonts/gaegu-v15-latin-regular.eot?#iefix') }}') format('embedded-opentype'), /* IE6-IE8 */
+                        url('{{ get_url(path='/fonts/gaegu-v15-latin-regular.woff2') }}') format('woff2'), /* Super Modern Browsers */
+                        url('{{ get_url(path='/fonts/gaegu-v15-latin-regular.woff') }}') format('woff'), /* Modern Browsers */
+                        url('{{ get_url(path='/fonts/gaegu-v15-latin-regular.ttf') }}') format('truetype'), /* Safari, Android, iOS */
+                        url('{{ get_url(path='/fonts/gaegu-v15-latin-regular.svg#Gaegu') }}') format('svg'); /* Legacy iOS */
+            }
+
+            /* gaegu-700 - latin */
+            @font-face {
+                font-family: 'Gaegu';
+                font-style: normal;
+                font-weight: 700;
+                src: url('{{ get_url(path='/fonts/gaegu-v15-latin-700.eot') }}'); /* IE9 Compat Modes */
+                src: local(''),
+                        url('{{ get_url(path='/fonts/gaegu-v15-latin-700.eot?#iefix') }}') format('embedded-opentype'), /* IE6-IE8 */
+                        url('{{ get_url(path='/fonts/gaegu-v15-latin-700.woff2') }}') format('woff2'), /* Super Modern Browsers */
+                        url('{{ get_url(path='/fonts/gaegu-v15-latin-700.woff') }}') format('woff'), /* Modern Browsers */
+                        url('{{ get_url(path='/fonts/gaegu-v15-latin-700.ttf') }}') format('truetype'), /* Safari, Android, iOS */
+                        url('{{ get_url(path='/fonts/gaegu-v15-latin-700.svg#Gaegu') }}') format('svg'); /* Legacy iOS */
+            }
+
+        </style>
         <link rel="stylesheet" href="{{ get_url(path='base.css') }}">
         {% block head %}{% endblock %}
     </head>
