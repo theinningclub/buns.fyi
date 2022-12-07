@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://theinningclub.github.io/buns.fyi/sitemap.xml
