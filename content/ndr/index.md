@@ -63,8 +63,14 @@ If you would like to participate, [fill out this form][participation-form] and w
 ### What are the vibes like?
 High-energy and low-pressure!
 
-### Can I run with friends?
+### Can I participate with friends?
 Absolutely! The more the merrier! We do not divide runners into teams, or otherwise separate participants from their friends in any way. Just please have [them fill out the participation form][participation-form], too!
+
+### Can I participate in underwear?
+For the safety and comfort of all involved, the NDR requires participants to bare it all. Please, out of respect for the tradition and your peers, do not join the NDR in lingerie or underwear.
+
+### Can I participate if I cannot run or climb stairs?
+Absolutely! If you have a disability that prevents you from running or climbing stairs, please email [ask@buns.fyi](mailto:ask@buns.fyi) so we may coordinate to accommodate you.
 
 ### Who organizes the NDR?
 The NDR is organized each year by volunteers who have participated in previous years! 
