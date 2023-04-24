@@ -15,28 +15,36 @@ While we welcome spectators, please respect our runners and NEVER record, photog
 
 ## Where is it?
 
-We deliver donut delights to:
-
+We *might* deliver donut delights to:
+* Barus and Holley
+* Engineering Research Center
+* Faunce
 * John D Rockefeller Library
-  * Floors 1–4
+* Sciences Library
+* Watson CIT
+
+## Where isn't it?
+
+We at the NDR understand that not everyone is comfortable seeing a naked body. We respect that, so every year we declare certain areas of the aforementioned as no-go zones for our runners.
+
+The following locations will be sign-posted no nudity (and no donut) zones:
+* Barus and Holley
+  * Floors 2–7
+* Engineering Research Center
+  * Floors 2–3
+* Faunce
+  * The Underground
+* John D Rockefeller Library
+  * Absolute Quiet Room (Level A)
 * Sciences Library
   * Basement
   * Mezzanine
   * Floor 3
-  * Floors 7–13
-
-## Where isn't it?
-
-We at the NDR understand that not everyone is comfortable seeing a naked body. We respect that, so every year we declare certain areas of the libraries as no-go zones for our runners.
-
-The following locations will be sign-posted no nudity (and no donut) zones:
-
-* John D Rockefeller Library
-  * Absolute Quiet Room (Level A)
-*   Sciences Library
   * Floor 4
   * Floor 5
   * Floor 6
+* Watson CIT
+  * Floor 4–5
 
 If you're on these floors, you won't see a runner, and you can continue to work in peace!
 
@@ -46,7 +54,9 @@ Additionally, people studying in the libraries will be notified just before the 
 
 The Naked Donut Run is open to any Brown and RISD students! We have runners of all shapes and sizes, and we strive to reflect the wide diversity of students on College Hill.
 
-If you would like to participate, [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSfvwdP06f6pKqKi8lg-cnzKClYRGhO4z-M7d6briNFxAiXz2Q/viewform) and we'll be in touch.
+If you would like to participate, [fill out this form][participation-form] and we'll be in touch.
+
+[participation-form]: https://docs.google.com/forms/d/e/1FAIpQLScms3Tvctk3tC8z5GLnbsS1fziJtFXaeuMg-YSRXYVRIdiQCA/viewform
 
 ## I have more questions!
 
@@ -54,7 +64,7 @@ If you would like to participate, [fill out this form](https://docs.google.com/f
 High-energy and low-pressure!
 
 ### Can I run with friends?
-Absolutely! The more the merrier! We do not divide runners into teams, or otherwise separate participants from their friends in any way.
+Absolutely! The more the merrier! We do not divide runners into teams, or otherwise separate participants from their friends in any way. Just please have [fill out the participation form][participation-form], too!
 
 ### Who organizes the NDR?
 The NDR is organized each year by volunteers who have participated in previous years! 
