@@ -64,7 +64,7 @@ If you would like to participate, [fill out this form][participation-form] and w
 High-energy and low-pressure!
 
 ### Can I run with friends?
-Absolutely! The more the merrier! We do not divide runners into teams, or otherwise separate participants from their friends in any way. Just please have [fill out the participation form][participation-form], too!
+Absolutely! The more the merrier! We do not divide runners into teams, or otherwise separate participants from their friends in any way. Just please have [them fill out the participation form][participation-form], too!
 
 ### Who organizes the NDR?
 The NDR is organized each year by volunteers who have participated in previous years! 
