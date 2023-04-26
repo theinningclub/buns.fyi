@@ -23,6 +23,8 @@ We *might* deliver donut delights to:
 * Sciences Library
 * Watson CIT
 
+We reserve the right to skip any building that is too over-crowded to be safely included.
+
 ## Where isn't it?
 
 We at the NDR understand that not everyone is comfortable seeing a naked body. We respect that, so every year we declare certain areas of the aforementioned as no-go zones for our runners.
@@ -33,16 +35,13 @@ The following locations will be sign-posted no nudity (and no donut) zones:
 * Engineering Research Center
   * Floors 2–3
 * Faunce
-  * The Underground
+  * Leung Family Gallery
+  * Floors 2–3
 * John D Rockefeller Library
   * Absolute Quiet Room (Level A)
 * Sciences Library
   * Basement
-  * Mezzanine
-  * Floor 3
-  * Floor 4
-  * Floor 5
-  * Floor 6
+  * Floors 1–6
 * Watson CIT
   * Floor 4–5
 
