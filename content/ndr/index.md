@@ -5,7 +5,7 @@ slug = "ndr"
 
 ## What is it?
 
-Twice a year, naked students deliver sugary donut delights to the studious denizens of Brown University's libraries. This machination of mischief and merriment dates as early as 1998, and was [recently featured in the Brown Daily Herald](https://www.browndailyherald.com/article/2022/10/its-so-brown-nudity-controversy-body-positivity-on-campus). It's a triumphant celebration of the semester's end, yummy treats, and body positivity.
+Twice a year, naked students deliver sugary donut delights to the studious denizens of Brown University's study areas. This machination of mischief and merriment dates as early as 1998, and was [recently featured in the Brown Daily Herald](https://www.browndailyherald.com/article/2022/10/its-so-brown-nudity-controversy-body-positivity-on-campus). It's a triumphant celebration of the semester's end, yummy treats, and body positivity.
 
 ## When is it?
 
@@ -41,7 +41,7 @@ The following locations will be sign-posted no nudity (and no donut) zones:
   * Absolute Quiet Room (Level A)
 * Sciences Library
   * Basement
-  * Floors 1–6
+  * Floors 1–7
 * Watson CIT
   * Floor 4–5
 
