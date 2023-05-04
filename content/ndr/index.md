@@ -66,7 +66,15 @@ High-energy and low-pressure!
 Absolutely! The more the merrier! We do not separate participants from their friends. Just please have [them fill out the participation form][participation-form], too!
 
 ### Can I participate in underwear?
-For the safety and comfort of all involved, the NDR requires participants to bare it all. Please, out of respect for the tradition and your peers, do not join the NDR in lingerie or underwear.
+For the safety and comfort of all involved, the NDR requires participants to bare it all. Please, out of respect for the tradition and your peers, do not join the NDR in lingerie or underwear. There are a wide range of reasons 
+
+### Can I wear anything?
+If you so chose, you may wear:
+- comfortable shoes
+- a mask
+- a (preferably silly) hat
+
+If you would like to wear an accessory that isn't on this list, please email [ask@buns.fyi](mailto:ask@buns.fyi).
 
 ### Can I participate if I cannot run or climb stairs?
 Absolutely! If you have a disability that prevents you from running or climbing stairs, please email [ask@buns.fyi](mailto:ask@buns.fyi) so we may coordinate to accommodate you.
