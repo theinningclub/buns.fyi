@@ -65,7 +65,7 @@ High-energy and low-pressure!
 Absolutely! The more the merrier! We do not separate participants from their friends. Just please have [them fill out the participation form][participation-form], too!
 
 ### Can I participate in underwear?
-For the safety and comfort of all involved, the NDR requires participants to bare it all. Please, out of respect for the tradition and your peers, do not join the NDR in lingerie or underwear. There are a wide range of reasons 
+For the safety and comfort of all involved, the NDR requires participants to bare it all. Please, out of respect for the tradition and your peers, do not join the NDR in lingerie or underwear. There are a wide range of reasons for this!
 
 ### Can I wear anything?
 If you so chose, you may wear:
