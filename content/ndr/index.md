@@ -54,7 +54,7 @@ The Naked Donut Run is open to any Brown and RISD students! We have runners of a
 
 If you would like to participate, [fill out this form][participation-form] and we'll be in touch.
 
-[participation-form]: https://docs.google.com/forms/d/e/1FAIpQLSddoPhlE8xmmiTmiANard35mqnKaCErVmIBkHuYhRtztcBijg/viewform?usp=sf_link
+[participation-form]: https://forms.gle/DMyqqJ6NZ96hVXPX8
 
 ## I have more questions!
 
