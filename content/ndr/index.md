@@ -15,15 +15,10 @@ While we welcome spectators, please respect our runners and NEVER record, photog
 
 ## Where is it?
 
-We *might* deliver donut delights to:
-* Barus and Holley
-* Engineering Research Center
-* Faunce
-* John D Rockefeller Library
-* Sciences Library
-* Watson CIT
+This semester, we will **only be doing the John D Rockefeller Library**, and no other locations. 
 
-We reserve the right to skip any building that is too over-crowded to be safely included.
+### Repeat: we will only be doing the John D Rockefeller Library this year!
+
 
 ## Where isn't it?
 
